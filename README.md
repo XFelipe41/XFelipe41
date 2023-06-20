@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌀¡Hola! Soy una persona seria y comprometida con mi trabajo. <br>Mi motivación radica en ayudar a otros a alcanzar sus objetivos. <br>Tengo amplios conocimientos en desarrollo web, dominando HTML,<br> CSS, SCSS, JavaScript y MySQL. 💻 Me encanta enfrentar desafíos<br> y aprender rápidamente. Soy proactivo, autodidacta y siempre <br>estoy abierto a aprender y explorar nuevas tecnologías. <br>Busco retos que me permitan crecer y contribuir al éxito de<br> los proyectos. ¡Listo para empezar!⚡<br><br>✅Actualmente estoy trabajando en mis propios proyectos<br>✅ Estoy buscando colaborar con otros desarrolladores<br> ✅ Actualmente estoy aprendiendo nuevas tecnologías como las son:<br>React ⚛️, Angular🅰️, TypeScript 🟦<br> ✅ Pregúntame sobre sobre- Diseño Web  <br> ✅ Busco trabajo en equipo 🌟<br> 
+🌀¡Hola! Soy una persona seria y comprometida con mi trabajo. <br>Mi motivación radica en ayudar a otros a alcanzar sus objetivos. <br>Tengo amplios conocimientos en desarrollo web, dominando HTML,<br> CSS, SCSS, JavaScript y MySQL. 💻 Me encanta enfrentar desafíos<br> y aprender rápidamente. Soy proactivo, autodidacta y siempre <br>estoy abierto a aprender y explorar nuevas tecnologías. <br>Busco retos que me permitan crecer y contribuir al éxito de<br> los proyectos. ¡Listo para empezar!⚡<br><br>✅Actualmente estoy trabajando en mis propios proyectos<br>✅ Estoy buscando colaborar con otros desarrolladores<br> ✅ Actualmente estoy aprendiendo nuevas tecnologías como las son:<br> - React ⚛️, Angular🅰️, TypeScript 🟦<br> ✅ Pregúntame sobre sobre- Diseño Web  <br> ✅ Busco trabajo en equipo 🌟<br> 
 
 
 ## 🌐 Socials:
@@ -25,7 +25,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=XFelipe41&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=XFelipe41&icon=0&color=4)](https://visitcount.itsvg.in)
