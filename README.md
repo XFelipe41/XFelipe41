@@ -37,8 +37,9 @@ Aquí encontrarás:
 ### 🌐 Frontend
 - 🧱 HTML5  
 - 🎨 CSS3 · SCSS · Tailwind CSS  
-- ⚡ JavaScript · TypeScript  
-- 🅰️ Angular · ⚛️ React  
+- ⚡ JavaScript · TypeScript
+- 🚀 AstroJs   
+- ⚛️ React  
 - 🅱️ Bootstrap  
 
 ### 🖥️ Backend & Bases de Datos
@@ -46,7 +47,8 @@ Aquí encontrarás:
 - 🗄️ MySQL · SQL Server  
 
 ### 📱 Desarrollo móvil
-- 📲 MIT App Inventor  
+- 📲 MIT App Inventor
+- ⚛️ React Native  
 
 ### ⚙️ Herramientas
 - 🔧 Git & GitHub  
@@ -59,7 +61,7 @@ Aquí encontrarás:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?logo=linkedin)](https://www.linkedin.com/in/felipe-caicedo4122/)  
 [![X](https://img.shields.io/badge/X-Actualizaciones%20Tech-black?logo=x)](https://twitter.com/_FelipeC41)  
-[![Instagram](https://img.shields.io/badge/Instagram-Contenido%20Creativo-purple?logo=instagram)](https://instagram.com/felipe_caicedo41)  
+[![Instagram](https://img.shields.io/badge/Instagram-Contenido%20Creativo-purple?logo=instagram)](https://www.instagram.com/felipe_c41/)  
 [![Facebook](https://img.shields.io/badge/Facebook-Contacto%20General-blue?logo=facebook)](https://www.facebook.com/felipe.caicedo.9465)  
 [![Discord](https://img.shields.io/badge/Discord-Comunidad%20y%20Clases-7289DA?logo=discord&logoColor=white)](https://discord.gg/xaquima41)
 
