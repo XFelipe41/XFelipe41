@@ -1,4 +1,4 @@
-# 👨‍🏫 Juan Felipe Caicedo Tabio
+# 👨‍🏫  Felipe Caicedo
 
 Ingeniero de Sistemas y **Docente de Programación y Desarrollo Web**.  
 Acompaño a estudiantes en el aprendizaje de la programación desde los fundamentos hasta la creación de proyectos reales, utilizando metodologías activas, aprendizaje basado en proyectos y enfoque al mundo laboral.
@@ -75,16 +75,6 @@ Aquí encontrarás:
 ## ✍️ Frase del día
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-## 😂 Dev Meme
-
-<img src="https://rm.up.railway.app/" width="500px"/>
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=XFelipe41&icon=2&color=12)
 
 ---
 
