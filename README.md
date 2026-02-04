@@ -59,11 +59,8 @@ Aquí encontrarás:
 
 ## 🌐 Redes Sociales y Comunidad
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?logo=linkedin)](https://www.linkedin.com/in/felipe-caicedo4122/)  
-[![X](https://img.shields.io/badge/X-Actualizaciones%20Tech-black?logo=x)](https://twitter.com/_FelipeC41)  
-[![Instagram](https://img.shields.io/badge/Instagram-Contenido%20Creativo-purple?logo=instagram)](https://www.instagram.com/felipe_c41/)  
-[![Facebook](https://img.shields.io/badge/Facebook-Contacto%20General-blue?logo=facebook)](https://www.facebook.com/felipe.caicedo.9465)  
-[![Discord](https://img.shields.io/badge/Discord-Comunidad%20y%20Clases-7289DA?logo=discord&logoColor=white)](https://discord.gg/xaquima41)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?logo=linkedin)](https://www.linkedin.com/in/felipe-caicedo4122/)  [![X](https://img.shields.io/badge/X-Actualizaciones%20Tech-black?logo=x)](https://twitter.com/_FelipeC41)  
+[![Instagram](https://img.shields.io/badge/Instagram-Contenido%20Creativo-purple?logo=instagram)](https://www.instagram.com/felipe_c41/)  [![Facebook](https://img.shields.io/badge/Facebook-Contacto%20General-blue?logo=facebook)](https://www.facebook.com/felipe.caicedo.9465)  [![Discord](https://img.shields.io/badge/Discord-Comunidad%20y%20Clases-7289DA?logo=discord&logoColor=white)](https://discord.gg/xaquima41)
 
 ---
 
