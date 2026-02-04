@@ -1,24 +1,92 @@
-# 💫 About Me:
-🌀¡Hola! Soy una persona seria y comprometida con mi trabajo.<br>Mi motivación radica en ayudar a otros a alcanzar sus objetivos.<br>Tengo amplios conocimientos en desarrollo web, dominando HTML,<br>CSS, SCSS, JavaScript y MySQL. 💻 Me encanta enfrentar desafíos<br>y aprender rápidamente. Soy proactivo, autodidacta y siempre<br>estoy abierto a aprender y explorar nuevas tecnologías.<br>Busco retos que me permitan crecer y contribuir al éxito de<br>los proyectos. ¡Listo para empezar!⚡<br><br>✅Actualmente estoy trabajando en mis propios proyectos<br>✅ Estoy buscando colaborar con otros desarrolladores<br>✅ Actualmente estoy aprendiendo nuevas tecnologías como las son: - React ⚛️, Angular🅰️, TypeScript 🟦<br>✅ Pregúntame sobre sobre- Diseño Web<br>✅ Busco trabajo en equipo 🌟
+# 👨‍🏫 Juan Felipe Caicedo Tabio
 
+Ingeniero de Sistemas y **Docente de Programación y Desarrollo Web**.  
+Acompaño a estudiantes en el aprendizaje de la programación desde los fundamentos hasta la creación de proyectos reales, utilizando metodologías activas, aprendizaje basado en proyectos y enfoque al mundo laboral.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xaquima41#6243) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/felipe.caicedo.9465?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felipe_caicedo41) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/felipe-caicedo4122/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/_FelipeC41?t=EXX17Q9fw3mjCnHRZ2hd_Q&s=09) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=XFelipe41&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=XFelipe41&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XFelipe41&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+💡 *Mi objetivo como docente es que mis estudiantes comprendan el código, no que solo lo memoricen.*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=XFelipe41&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Enfoque docente
+
+- 🧠 Fundamentos de programación y lógica computacional  
+- 🌐 Desarrollo web desde cero hasta aplicaciones funcionales  
+- 🗄️ Bases de datos aplicadas a problemas reales  
+- 🧩 Buenas prácticas y código limpio  
+- 🤝 Trabajo colaborativo con Git y GitHub  
+- 🚀 Preparación para proyectos académicos y primeros retos profesionales  
+
+---
+
+## 🧑‍💻 Cómo usar este GitHub si eres estudiante
+
+Aquí encontrarás:
+
+- 📘 Ejercicios explicados paso a paso  
+- 🧪 Laboratorios prácticos  
+- 🛠️ Proyectos guía y retos de clase  
+- 📂 Repositorios organizados por nivel  
+- 🔍 Código comentado y documentado  
+
+👉 *Este GitHub hace parte activa de mis clases.*
+
+---
+
+## 💻 Tecnologías que enseño y utilizo
+
+### 🌐 Frontend
+- 🧱 HTML5  
+- 🎨 CSS3 · SCSS · Tailwind CSS  
+- ⚡ JavaScript · TypeScript  
+- 🅰️ Angular · ⚛️ React  
+- 🅱️ Bootstrap  
+
+### 🖥️ Backend & Bases de Datos
+- 🐘 PHP  
+- 🗄️ MySQL · SQL Server  
+
+### 📱 Desarrollo móvil
+- 📲 MIT App Inventor  
+
+### ⚙️ Herramientas
+- 🔧 Git & GitHub  
+- 🐧 Linux  
+- 🌍 WordPress  
+
+---
+
+## 🌐 Redes Sociales y Comunidad
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-blue?logo=linkedin)](https://www.linkedin.com/in/felipe-caicedo4122/)  
+[![X](https://img.shields.io/badge/X-Actualizaciones%20Tech-black?logo=x)](https://twitter.com/_FelipeC41)  
+[![Instagram](https://img.shields.io/badge/Instagram-Contenido%20Creativo-purple?logo=instagram)](https://instagram.com/felipe_caicedo41)  
+[![Facebook](https://img.shields.io/badge/Facebook-Contacto%20General-blue?logo=facebook)](https://www.facebook.com/felipe.caicedo.9465)  
+[![Discord](https://img.shields.io/badge/Discord-Comunidad%20y%20Clases-7289DA?logo=discord&logoColor=white)](https://discord.gg/xaquima41)
+
+---
+
+## 📊 Mi actividad en GitHub
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XFelipe41&theme=dark&hide_border=true)
+
+
+---
+
+## ✍️ Frase del día
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+## 😂 Dev Meme
+
+<img src="https://rm.up.railway.app/" width="500px"/>
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=XFelipe41&icon=2&color=12)
+
+---
+
+> 🚀 *La programación no se aprende viendo, se aprende haciendo.*
+
